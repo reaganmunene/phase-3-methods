@@ -32,7 +32,7 @@ def halve (num1)
     end
 
     num1 / 2
-end
+end # this one didnt work 
 
 def halve (number)
     return nil unless number.is_a?(Integer)
